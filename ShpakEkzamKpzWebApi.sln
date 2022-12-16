@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShpakEkzamKpzWebApi", "ShpakEkzamKpzWebApi.csproj", "{EE67F86B-0D3A-4740-A54D-ECB823234AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE67F86B-0D3A-4740-A54D-ECB823234AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE67F86B-0D3A-4740-A54D-ECB823234AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE67F86B-0D3A-4740-A54D-ECB823234AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE67F86B-0D3A-4740-A54D-ECB823234AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7631FEA-79A9-4CEF-A351-EF530FA9C538}
+	EndGlobalSection
+EndGlobal
